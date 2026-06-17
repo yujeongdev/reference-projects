@@ -10,13 +10,20 @@
 
 ## 스크린샷
 
-| 섹션 | 파일 |
-|------|------|
-| 히어로 + 타임라인 캔버스 | `screenshots/01-hero.png` |
-| 통계 대시보드 + KPI | `screenshots/02-stats.png` |
-| 종목 카드 + 미니 차트 | `screenshots/03-stocks.png` |
-| 방문 루트 지도 | `screenshots/04-map.png` |
-| 캘린더 뉴스 아카이브 | `screenshots/05-news.png` |
+### 히어로 + 타임라인 캔버스
+![히어로](screenshots/01-hero.png)
+
+### 통계 대시보드 + KPI
+![통계](screenshots/02-stats.png)
+
+### 종목 카드 + 미니 차트
+![종목](screenshots/03-stocks.png)
+
+### 방문 루트 지도
+![지도](screenshots/04-map.png)
+
+### 캘린더 뉴스 아카이브
+![뉴스](screenshots/05-news.png)
 
 ---
 
