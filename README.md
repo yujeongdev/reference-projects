@@ -21,6 +21,7 @@ reference-projects/
 | 프로젝트 | 사이트 | 주요 스택 |
 |---------|--------|---------|
 | [jensen-huang-kr-tracker](./jensen-huang-kr-tracker/jensen-huang-kr-tracker.md) | junresearch.com/jensenHuangKRTracker | Next.js 15, Tailwind v4, GSAP, Sigma.js, Three.js |
+| [tossinvest-screener](./tossinvest-screener/tossinvest-screener.md) | tossinvest.com/screener | Next.js, Vanilla Extract, Jotai, TanStack Query, Framer Motion, Lottie, Rive |
 
 ## 공통 스크립트 사용법
 
